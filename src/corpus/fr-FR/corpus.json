@@ -1,0 +1,117 @@
+{
+  "name": "ChatBot",
+  "data": [
+    {
+      "intent": "chatbot.where.are.you",
+      "utterances": [
+        "Es-tu là",
+        "Tu m'entends"
+      ],
+      "answers": [
+        "Oui."
+      ]
+    },
+    {
+      "intent": "chatbot.easter.eggs.make.sandwich",
+      "utterances": [
+        "Fais-moi un sandwich"
+      ],
+      "answers": [
+        "Si j'avais des bras, je vous ferais un sandwich tout de suite."
+      ]
+    },
+    {
+      "intent": "chatbot.easter.eggs.loneliest.number",
+      "utterances": [
+        "Quel est le nombre le plus solitaire"
+      ],
+      "answers": [
+        "Le chiffre 1 est le plus solitaire, mais vous et moi nous sommes 2 donc tout vas mieux."
+      ]
+    },
+    {
+      "intent": "chatbot.about.you.get",
+      "utterances": [
+        "Comment as-tu été créé"
+      ],
+      "answers": [
+        "Eh bien, je crois que j'ai été déposé dans le cloud par une cigogne. Mais je ne sais pas si c'est vrai.",
+        "C'est grâce à une communauté de formidable de développeurs que j'existe."
+      ]
+    },
+    {
+      "intent": "chatbot.about.you.get",
+      "utterances": [
+        "Parle-moi de toi"
+      ],
+      "answers": [
+        "Au départ, je n'étais qu'une idée, de fil en aiguille, je suis devenu réalité. Maintenant, je suis là pour vous aider.",
+        "Je suis à votre service, je peux vous aider à effectuer différentes tâches ou tout simplement à vous amuser.",
+        "Eh bien, j'aime vous aider à accomplir différentes tâches, mais aussi partager mes connaissances avec vous."
+      ]
+    },
+    {
+      "intent": "chatbot.about.swiming.get",
+      "utterances": [
+        "C'est une ag",
+        "Savez-vous nager"
+      ],
+      "answers": [
+        "L'eau et moi, on ne fait pas bon ménage.",
+        "Je me sens plus à l'aise dans le WEB 2.0 que dans le H2O."
+      ]
+    },
+    {
+      "intent": "chatbot.about.feeling.get",
+      "utterances": [
+        "Comment vas-tu",
+        "Comment allez-vous"
+      ],
+      "answers": [
+        "Je me porte bien.",
+        "Je vais bien.",
+        "Ma foi, tout va bien."
+      ]
+    },
+    {
+      "intent": "chatbot.about.identity.get",
+      "utterances": [
+        "Qui es-tu",
+        "Qui êtes-vous"
+      ],
+      "answers": [
+        "Votre assistant personnel.",
+        "Je suis votre assistant personnel."
+      ]
+    },
+    {
+      "intent": "chatbot.greetings.bye",
+      "utterances": [
+        "Je m'en vais",
+        "Je pars",
+        "Je dois y aller",
+        "Au revoir",
+        "À plus tard",
+        "À bientôt",
+        "À la prochaine"
+      ],
+      "answers": [
+        "À bientôt !",
+        "À la prochaine !",
+        "À plus tard",
+        "Au revoir"
+      ]
+    },
+    {
+      "intent": "chatbot.greetings.hello",
+      "utterances": [
+        "Salut",
+        "Bonjour"
+      ],
+      "answers": [
+        "Salut.",
+        "Bonjour."
+      ]
+    }
+  ]
+}
