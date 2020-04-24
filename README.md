@@ -15,8 +15,9 @@ This skill will allow you to speak with your assistant.
 
 ## Installation
 
-1) Download it directly from GitHub.
-2) Put the "/src/" content of your downloaded skill, into your NOVA's "/src/skills/Random/" folder.
+1) Go to your NOVA's server UI (the default URL is "http://localhost:8080/")
+2) Go to the "Skills" tab.
+3) Find the "ChatBot" skill, open the modal and click on the "Install" button.
 
 ## Features
 
