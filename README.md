@@ -5,6 +5,10 @@
 
 **NOVA - ChatBot** is a skill for your [NOVA](//github.com/HeyHeyChicken/NOVA) assistant.<br>
 This skill will allow you to speak with your assistant.
+
+<br>
+
+<img src="https://github.com/HeyHeyChicken/NOVA-ChatBot/blob/master/resources/screenshot.jpg" alt="NOVA" width="800">
 </div>
 
 <br>
