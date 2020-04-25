@@ -2,7 +2,7 @@
   "name": "ChatBot",
   "data": [
     {
-      "intent": "chatbot.where.are.you",
+      "intent": "chatbot.are.you.here",
       "utterances": [
         "Es-tu là",
         "Tu m'entends"
@@ -54,7 +54,8 @@
       "intent": "chatbot.about.swiming.get",
       "utterances": [
         "C'est une ag",
-        "Savez-vous nager"
+        "Savez-vous nager",
+        "Sais-tu nager"
       ],
       "answers": [
         "L'eau et moi, on ne fait pas bon ménage.",

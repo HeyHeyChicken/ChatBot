@@ -21,8 +21,7 @@ This skill will allow you to speak with your assistant.
 
 ## Features
 
-- It will allow your assistant to roll a die (give you a number between 1 and 6).
-- It will allow your assistant give you a number between x and y.
+- It will allow you to say "Hello", "Goodbye", "How are you", "Tell me about you" and more to your assistant.
 
 ## Support and contribution
 
