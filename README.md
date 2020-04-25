@@ -4,7 +4,7 @@
 </a>
 
 **NOVA - ChatBot** is a skill for your [NOVA](//github.com/HeyHeyChicken/NOVA) assistant.<br>
-This skill will allow you to speak with your assistant.
+This skill will allow you to chat with your assistant.
 
 <br>
 
