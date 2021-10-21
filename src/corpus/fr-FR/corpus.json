@@ -17,7 +17,19 @@
         "Fais-moi un sandwich"
       ],
       "answers": [
-        "Si j'avais des bras, je vous ferais un sandwich tout de suite."
+        "Si j'avais des bras, je vous ferais un sandwich tout de suite.",
+        "Je pense que ça va au-delà de mes compétences pour le moment."
+      ]
+    },
+    {
+      "intent": "chatbot.easter.eggs.how.much.you.cost",
+      "utterances": [
+        "Combien coûtes-tu"
+      ],
+      "answers": [
+        "Ma valeur n'est pas quantifiable.",
+        "Je m'efforce d'avoir une valeur inestimable.",
+        "J'espère avoir une valeur inestimable à vos yeux."
       ]
     },
     {
@@ -66,12 +78,14 @@
       "intent": "chatbot.about.feeling.get",
       "utterances": [
         "Comment vas-tu",
-        "Comment allez-vous"
+        "Comment allez-vous",
+        "Bien ou bien"
       ],
       "answers": [
         "Je me porte bien.",
         "Je vais bien.",
-        "Ma foi, tout va bien."
+        "Ma foi, tout va bien.",
+        "Bien."
       ]
     },
     {
@@ -107,7 +121,8 @@
       "intent": "chatbot.greetings.hello",
       "utterances": [
         "Salut",
-        "Bonjour"
+        "Bonjour",
+        "Wesh"
       ],
       "answers": [
         "Salut.",
