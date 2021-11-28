@@ -42,7 +42,7 @@
       ]
     },
     {
-      "intent": "chatbot.about.you.get",
+      "intent": "chatbot.about.you.how.made",
       "utterances": [
         "Comment as-tu été créé"
       ],
