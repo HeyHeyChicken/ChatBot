@@ -2,7 +2,7 @@
 	"worksOffline" : true,
 	"description" : {
 		"fr-FR": "Cette compétence vous permettra de discuter avec votre assistant. Il vous parlera de lui, vous racontera des blagues, etc.",
-		"en-US": "This skill will allow you to chat with your assistant. He will tell you about himself, tell you jokes, etc."
+		"en-US": "This skill will allow you to chat with your assistant. It will tell you about itself, tell you jokes, etc."
 	},
 	"language": [
 		"fr-FR",
