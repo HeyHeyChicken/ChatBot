@@ -7,6 +7,7 @@ class ChatBot extends LIBRARIES.Skill {
     super(_main, _settings, _folder);
     const SELF = this;
 
+    console.log(_settings);
     console.log("loading ...");
     for(let i = 0; i < _settings.length; i++){
       const INTENT = "chatbot.custom_intent_" + i;
