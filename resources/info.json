@@ -5,6 +5,7 @@
 		"en-US": "This skill will allow you to chat with your assistant.<br/>It will tell you about itself, tell you jokes, etc."
 	},
 	"language": [
-		"fr-FR"
+		"fr-FR",
+		"en-US"
 	]
 }
