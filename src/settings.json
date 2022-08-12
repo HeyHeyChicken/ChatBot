@@ -1,3 +1,13 @@
 {
-  "FolderName": "ChatBot"
+  "Settings":[
+    {
+      "utterances": [
+        "Your custom phrase"
+      ],
+      "answers": [
+        "A personalized response.",
+        "An other personalized response"
+      ]
+    }
+  ]
 }
