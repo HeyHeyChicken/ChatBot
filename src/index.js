@@ -12,8 +12,12 @@ class ChatBot extends LIBRARIES.Skill {
     for(let i = 0; i < _settings.length; i++){
       const INTENT = "chatbot.custom_intent_" + i;
       console.log(INTENT + " loaded.");
-      _main.Manager.addDocuments(INTENT, _settings[i].utterances);
-      _main.Manager.addAnswers(INTENT, _settings[i].answers);
+      for(let j = 0; j < _settings[i].utterances.length; j++){
+        _main.Manager.addDocuments(INTENT, _settings[i].utterances[j]);
+      }
+      for(let j = 0; j < _settings[i].answers.length; j++){
+      _main.Manager.addAnswers(INTENT, _settings[i].answers[j]);
+      }
     }
     console.log("loaded");
   }
